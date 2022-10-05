@@ -1,0 +1,44 @@
+Instruction:
+
+Text window on left side is responsible for path to source file or directory.
+Text window on rigth side is responsible for path to target directory.
+Paths can be write or choose using buttons and trees of files.
+In case when in path exist only disk name for example C:\, name of disk should be write
+without "\" sign (C:). After choosing source and target paths, button Create task should be pushed.
+Next which help of clicking in number of task in task list below button Create task, task is choosen
+for which transfer should be set or change task status.
+After clicking start button, transfer can be changed.Below limit of speed window
+there is window, wchich display error comunications.
+
+
+Okienko tekstowe po lewej stronie odpowiada za œcie¿kê do pliku/katalogu
+Ÿród³owego.Okienko tekstowe po prawej stronie odpowiada za œcie¿kê do
+katalogu docelowego.Œcie¿ki mo¿na wpisywaæ rêcznie albo wybieraæ
+za pomoc¹ przycisków i drzew plikow.W wypadku gdy w œcie¿ce wystêpuje
+tylko nazwa dysku np. C:\, nale¿y wpisaæ nazwê dysku bez znaku "\" czyli
+C:.Po wybraniu œcie¿ki Ÿród³owej i docelowej nale¿y wcisn¹æ przycisk
+Create task. Nastêpnie za pomoc¹ klikniêcia w numer zadania na liœcie zadañ
+poni¿ej przycisku Create task, wybiera siê zadanie dla którego chce 
+siê ustawiæ transfer albo zmieniæ stan zadania.Po klikniêciu przycisku start nie
+da siê zmieniæ limitu szybkoœci dla zadania.Poni¿ej okienka limitu
+szybkoœci znajduje siê okno w którym wyœwietlane s¹ ewentualne 
+komunikaty o b³êdach.
+
+Trees of files:
+After clicking Select drive or folder button, there will be create 
+appropriate tree of iles. Green icond indicate root of tree.
+Blue icon indicate file and yellow icon indicate directory.Black
+icon indicate actual choosen directory or file.
+When left mouse button will be double click on icon,it causes that 
+text window below tree, there appears appropriate path to directory or file.
+Rigth button mouse click on yellow icon create subtree with ctalogs and files
+placed in clicked diectory.
+Drzewa plików:
+Po klikniêciu na przycisk Select drive or folder, zostanie stworzone
+odpowiednie drzewo plików.Zielona ikona oznacza korzeñ drzewa.
+Niebieska ikona oznacza plik a ¿ó³ta ikona katalog.Czarna ikona
+oznacza aktualnie wybrany katalog/plik.
+Dwukrotne klikniêcie lewym przyciskiem myszy ikony powoduje ¿e w okienku tekstowym poni¿ej drzewa
+pojawia siê odpowiednia œcie¿ka do katalogu/pliku.Klikniêcie prawym przyciskiem
+na ¿ó³t¹ ikonê tworzy poddrzewo z katalogami i plikami umieszczonymi
+w klikniêtym katalogu.

@@ -1,0 +1,7 @@
+Program is executed from command line in below way:
+ac source_file target_file key_file 1
+1 means encoding
+ac source_file target_file key_file 2
+2 means decoding
+In key file are eleven float numbers separating by spaces
+File 1000b is example message, file 1000s is encoding message ,file 1000d is decoding message.

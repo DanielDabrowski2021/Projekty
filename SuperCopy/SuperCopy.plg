@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SuperCopy - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSP1C4.TMP" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/SuperCopy.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\PORADNIK\Zadanie\Supecorpynaj\SuperCopy\SuperCopyDlg.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP1C4.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP01C5.TMP" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/SuperCopy.pdb" /debug /machine:I386 /out:"Debug/SuperCopy.exe" /pdbtype:sept 
+.\Debug\MsgDlg.obj
+.\Debug\StdAfx.obj
+.\Debug\SuperCopy.obj
+.\Debug\SuperCopyDlg.obj
+.\Debug\Task.obj
+.\Debug\SuperCopy.res
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP01C5.TMP"
+<h3>Output Window</h3>
+Compiling...
+SuperCopyDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+SuperCopy.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
