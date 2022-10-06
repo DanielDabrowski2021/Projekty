@@ -1,0 +1,65 @@
+fileFormatVersion: 2
+guid: 5fde164d3245cb04596181c1a24e718a
+timeCreated: 1590349673
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cube: {instanceID: 0}
+  - cube_tlo: {instanceID: 0}
+  - cube_asortyment_sklepu: {instanceID: 0}
+  - cube_ekwipunek_postaci: {instanceID: 0}
+  - cube_przedmiot_na_ziemi: {instanceID: 0}
+  - cube_spichlerz: {instanceID: 0}
+  - cube_platnerz: {instanceID: 0}
+  - cube_biblioteka: {instanceID: 0}
+  - cube_alchemik: {instanceID: 0}
+  - cube_mysliwy: {instanceID: 0}
+  - cube_pole: {instanceID: 0}
+  - cube_pole_malego_terenu: {instanceID: 0}
+  - cube_miasto: {instanceID: 0}
+  - sphere_miasto: {instanceID: 0}
+  - cylinder_miasto: {instanceID: 0}
+  - capsule_druzyna: {instanceID: 0}
+  - cube_postac: {instanceID: 0}
+  - cube_wrog: {instanceID: 0}
+  - camera_: {instanceID: 0}
+  - wrog1: {instanceID: 0}
+  - budynek: {instanceID: 0}
+  - budynek1: {instanceID: 0}
+  - budynek2: {instanceID: 0}
+  - budynek3: {instanceID: 0}
+  - budynek4: {instanceID: 0}
+  - aktualna_druzyna: {instanceID: 0}
+  - spichlerzTexture: {fileID: 2800000, guid: 42eaede9d279f734c86f05ac38dd1d22, type: 3}
+  - graczeTexture: {instanceID: 0}
+  - platnerzTexture: {fileID: 2800000, guid: 6935bfe0f8ab6d34ba39bd876ab6c4aa, type: 3}
+  - bibliotekaTexture: {instanceID: 0}
+  - alchemikTexture: {instanceID: 0}
+  - mysliwyTexture: {instanceID: 0}
+  - glowaTexture: {instanceID: 0}
+  - tulowTexture: {instanceID: 0}
+  - nogiTexture: {instanceID: 0}
+  - lewarekaTexture: {instanceID: 0}
+  - prawarekaTexture: {instanceID: 0}
+  - smiercTexture: {instanceID: 0}
+  - skoraTexture: {instanceID: 0}
+  - skorzanebutyTexture: {instanceID: 0}
+  - miksturahpTexture: {instanceID: 0}
+  - miksturamanaTexture: {instanceID: 0}
+  - mieczTexture: {instanceID: 0}
+  - tarczaTexture: {instanceID: 0}
+  - lukTexture: {instanceID: 0}
+  - zwojTexture: {instanceID: 0}
+  - helmTexture: {instanceID: 0}
+  - emptyTexture: {instanceID: 0}
+  - wilkTexture: {instanceID: 0}
+  - miesoTexture: {instanceID: 0}
+  - postacgracza1Texture: {instanceID: 0}
+  - texthint: {instanceID: 0}
+  - tlo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

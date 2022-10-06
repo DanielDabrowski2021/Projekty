@@ -1,0 +1,2 @@
+sudoku nazwa_plik_zrodlowego nazwa_pliku_docelowego
+Plik zród³owy powinien posiadaæ okreœlony format (taki jak plik example.txt)

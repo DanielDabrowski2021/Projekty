@@ -1,0 +1,6 @@
+W - obraca klocek w prawo
+Z - obraca klocek w lewo
+S - klocek leci w dó³
+A - ruch w lewo
+D - ruch w prawo
+spacja - nowa gra

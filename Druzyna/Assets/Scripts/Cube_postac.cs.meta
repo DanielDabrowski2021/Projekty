@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6395cbdb08efe874c8351e90b0b01b33
+timeCreated: 1555275391
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pasek_zdrowia: {fileID: 1000011492782128, guid: b4be67d3a48bfb642b4cc1b956fbd4b7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

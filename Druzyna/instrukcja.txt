@@ -1,0 +1,12 @@
+Spacja - koniec dnia, pojscie na mapie g³ownej o jedno pole do celu
+i -inwentarz postaci
+p -polowanie
+l- akcja w terenie
+m -wejscie do miasta
+o -pauza podczas walki
+e -wyjscie z miasta albo z pola walki lub akcji w terenie
+k- wyjscie do menu po przegranej
+klikniêcie na wrogu prawym przyciskiem myszy - u¿ycie czaru albo broni strzelaj¹cej
+klikniêcie na wrogu lewym przyciskiem myszy - postaæ podchodzi do wroga i walczy
+Grafiki, które nie wygl¹daj¹ jak na malowane w Paincie s¹ tymczasowe, pobrane z internetu.
+Nie mam do nich praw.W razie czego mogê je podmieniæ lub podaæ zród³a.

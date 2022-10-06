@@ -1,0 +1,2 @@
+Nale¿y u³o¿yæ kulki w linie (pionowo,poziomo lub ukoœnie), minimum 5 kulek w linii.Wtedy kulki znikaj¹.
+Co jeden ruch pojawiaj¹ siê 3 nowe kulki.Gra trwa dopóki nie skoñczy siê miejsce na planszy.  
